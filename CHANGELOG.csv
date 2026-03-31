@@ -8025,3 +8025,4 @@ main,kube-prometheus-stack,82.15.1,v0.89.0,2026-03-27T18:18:51.338Z
 main,cert-manager,v1.20.1,v1.20.1,2026-03-27T18:40:11.296Z
 main,reflector,10.0.25,10.0.25,2026-03-30T22:16:34.936Z
 main,kube-prometheus-stack,82.16.0,v0.89.0,2026-03-31T15:06:32.049Z
+main,consul,1.9.6,1.22.6,2026-03-31T20:35:08.008Z
