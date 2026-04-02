@@ -8027,3 +8027,4 @@ main,reflector,10.0.25,10.0.25,2026-03-30T22:16:34.936Z
 main,kube-prometheus-stack,82.16.0,v0.89.0,2026-03-31T15:06:32.049Z
 main,consul,1.9.6,1.22.6,2026-03-31T20:35:08.008Z
 main,reflector,10.0.26,10.0.26,2026-03-31T21:31:13.649Z
+main,kube-prometheus-stack,82.16.1,v0.89.0,2026-04-02T06:09:00.942Z
