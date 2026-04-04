@@ -8036,3 +8036,4 @@ main,kube-prometheus-stack,82.17.0,v0.89.0,2026-04-03T17:39:52.556Z
 main,reflector,10.0.27,10.0.27,2026-04-03T21:31:37.027Z
 main,kube-prometheus-stack,82.17.1,v0.89.0,2026-04-04T11:13:57.066Z
 main,prometheus-node-exporter,4.53.0,1.11.0,2026-04-04T17:20:18.612Z
+main,kube-prometheus-stack,82.18.0,v0.89.0,2026-04-04T21:07:20.067Z
