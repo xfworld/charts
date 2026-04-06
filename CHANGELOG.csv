@@ -8038,3 +8038,4 @@ main,kube-prometheus-stack,82.17.1,v0.89.0,2026-04-04T11:13:57.066Z
 main,prometheus-node-exporter,4.53.0,1.11.0,2026-04-04T17:20:18.612Z
 main,kube-prometheus-stack,82.18.0,v0.89.0,2026-04-04T21:07:20.067Z
 main,prometheus,28.16.0,v3.11.0,2026-04-04T21:25:26.292Z
+main,gitlab-runner,0.87.1,18.10.1,2026-04-06T10:12:17.464Z
