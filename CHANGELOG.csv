@@ -8058,3 +8058,6 @@ main,kube-prometheus-stack,83.1.0,v0.90.1,2026-04-08T09:51:37.178Z
 main,kube-prometheus-stack,83.2.0,v0.90.1,2026-04-08T17:08:53.788Z
 main,cockroachdb,20.0.3,26.1.2,2026-04-08T17:54:12.799Z
 main,alertmanager,1.35.0,v0.32.0,2026-04-08T21:16:37.196Z
+main,kube-prometheus-stack,83.3.0,v0.90.1,2026-04-08T21:24:07.405Z
+main,reflector,10.0.29,10.0.29,2026-04-08T21:32:38.299Z
+main,argo-cd,9.4.18,v3.3.6,2026-04-08T21:42:11.920Z
