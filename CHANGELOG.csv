@@ -8055,3 +8055,4 @@ main,opensearch,3.6.0,3.6.0,2026-04-07T22:39:48.626Z
 main,opensearch-dashboards,3.6.0,3.6.0,2026-04-07T22:39:48.785Z
 main,gitlab,9.10.3,v18.10.3,2026-04-08T08:01:07.398Z
 main,kube-prometheus-stack,83.1.0,v0.90.1,2026-04-08T09:51:37.178Z
+main,kube-prometheus-stack,83.2.0,v0.90.1,2026-04-08T17:08:53.788Z
