@@ -8080,3 +8080,4 @@ main,victoria-metrics-k8s-stack,0.73.0,v1.140.0,2026-04-13T10:16:28.522Z
 main,kube-prometheus-stack,83.4.1,v0.90.1,2026-04-13T13:18:35.040Z
 main,prometheus,29.2.1,v3.11.2,2026-04-13T13:35:52.346Z
 main,reloader,2.2.10,v1.4.15,2026-04-13T17:01:34.838Z
+main,reflector,10.0.31,10.0.31,2026-04-13T22:11:31.888Z
