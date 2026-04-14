@@ -8086,3 +8086,4 @@ main,argo-workflows,1.0.8,v4.0.4,2026-04-14T05:22:29.489Z
 main,gitea,12.5.1,1.25.5,2026-04-14T06:22:07.246Z
 main,victoria-metrics-operator,0.60.0,v0.68.4,2026-04-14T10:23:35.102Z
 main,kube-prometheus-stack,83.4.2,v0.90.1,2026-04-14T18:06:47.689Z
+main,reflector,10.0.32,10.0.32,2026-04-14T21:32:16.684Z
