@@ -8097,3 +8097,4 @@ main,gitea,12.5.3,1.25.5,2026-04-15T16:22:48.344Z
 main,reflector,10.0.33,10.0.33,2026-04-15T21:34:48.136Z
 main,victoria-metrics-k8s-stack,0.74.1,v1.140.0,2026-04-16T04:07:38.023Z
 main,argo-workflows,1.0.10,v4.0.4,2026-04-16T05:05:12.662Z
+main,kube-prometheus-stack,83.5.0,v0.90.1,2026-04-16T08:32:57.252Z
