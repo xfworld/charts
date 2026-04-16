@@ -8101,3 +8101,4 @@ main,kube-prometheus-stack,83.5.0,v0.90.1,2026-04-16T08:32:57.252Z
 main,argo-cd,9.5.1,v3.3.6,2026-04-16T09:11:01.700Z
 main,victoria-metrics-operator,0.61.0,v0.68.4,2026-04-16T12:51:35.157Z
 main,gitlab,9.11.0,v18.11.0,2026-04-16T13:44:45.028Z
+main,dapr,1.17.5,1.17.5,2026-04-16T15:15:36.009Z
