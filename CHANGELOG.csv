@@ -8114,3 +8114,4 @@ main,victoria-metrics-operator,0.61.1,v0.68.4,2026-04-20T16:53:17.578Z
 main,kube-prometheus-stack,83.7.0,v0.90.1,2026-04-21T14:08:16.079Z
 main,gitlab-runner,0.88.1,18.11.1,2026-04-21T18:40:44.626Z
 main,argo-cd,9.5.3,v3.3.8,2026-04-21T19:50:18.551Z
+main,reflector,10.0.36,10.0.36,2026-04-21T20:30:55.445Z
