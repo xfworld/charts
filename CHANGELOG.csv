@@ -8125,3 +8125,4 @@ main,victoria-metrics-operator,0.62.0,v0.69.0,2026-04-22T15:09:22.261Z
 main,redis,25.4.0,8.6.2,2026-04-22T16:30:30.942Z
 main,vector,0.52.0,0.55.0-distroless-libc,2026-04-22T17:18:41.060Z
 main,argo-workflows,1.0.11,v4.0.4,2026-04-22T18:39:54.003Z
+main,kube-prometheus-stack,84.0.0,v0.90.1,2026-04-23T10:51:15.836Z
