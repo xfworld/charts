@@ -8148,3 +8148,4 @@ main,prometheus,29.3.0,v3.11.3,2026-04-28T00:00:17.231Z
 main,argo-cd,9.5.5,v3.3.8,2026-04-28T03:12:03.266Z
 main,victoria-metrics-operator,0.62.1,v0.69.0,2026-04-28T08:49:12.070Z
 main,victoria-metrics-k8s-stack,0.75.0,v1.141.0,2026-04-28T09:03:17.144Z
+main,external-secrets,2.4.1,v2.4.1,2026-04-28T11:07:26.789Z
